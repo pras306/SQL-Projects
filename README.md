@@ -12,19 +12,40 @@
 
 ## Projects
 
-The following are the projects that I have worked on using SQL
+This repository contains my data analysis projects which I have worked using Microsoft SQL Server.
 
-### [COVID-19 Global Impact](covid-19-global-data/README.md)
+### [COVID-19 Global Impact](covid-19-global-data/CovidProjectQueries.sql)
 
-- Objective: Analyzed global COVID-19 data to identify trends in deaths and vaccination rates.
-- Key Tasks: Extracted and cleaned data using SQL, created interactive dashboards in Tableau.
-- Outcome: Identified critical patterns in regional COVID-19 impacts, aiding further research
+#### Objective
 
-### [Nashville Housing Data](nashville-housing-data/README.md)
+- Analyze global COVID-19 data to identify trends in deaths and vaccination rates.
 
-- Objective: Analyzed Nashville housing data to identify trends and insights.
-- Key Tasks: Extracted and cleaned data using SQL, and prepared data for further data exploration.
-- Outcome: Cleaned and explored the housing data, aiding in further research.
+#### Key Tasks
+
+- Performed data cleaning on the base data.
+- Ensured all table columns were correctly represented by their data types.
+- Explored the data to gain insights and prepare the data for further visualizations.
+
+#### Outcome
+
+- Identified critical patterns in regional COVID-19 impacts, aiding further research
+
+
+### [Nashville Housing Data](nashville-housing-data/NashvilleHousingQueries.sql)
+
+#### Objective
+
+- Analyze Nashville housing data to identify trends and insights.
+
+#### Key Tasks
+
+- Performed data cleaning to prepare the data for analysis.
+- Ensured all table columns were correctly represented by their data types.
+- Handled several cases where there were missing data found and removed duplicates.
+
+#### Outcome
+
+- Cleaned and explored the housing data, aiding in further research.
 
 
 [Back to the Top](#projects-in-sql)

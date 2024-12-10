@@ -1,26 +1,55 @@
-# Projects in SQL
+# Nashville Housing Data 
 
 ---
 
 ### Table of Contents
 
-- [Projects](#projects)
+- [Objective](#objective)
+- [Technologies](#technologies)
+- [Project Files](#project-files)
+- [Project Outcome](#project-outcome)
 - [License](#license)
 - [Author Info](#author-info)
 
 ---
 
-## Projects
+## Objective
 
-This repository contains my data analysis projects which I have worked using Microsoft SQL Server.
+- Analyze Nashville housing data to identify trends and insights.
 
-The following are the projects I have worked on
+[Back to the Top](#nashville-housing-data)
 
-- [COVID 19 Global Data](covid-19-global-data/README.md)
-- [Nashville Housing Data](nashville-housing-data/README.md)
+---
 
+## Technologies
 
-[Back to the Top](#projects-in-sql)
+- Microsoft SQL Server
+
+[Back to the Top](#nashville-housing-data)
+
+---
+
+## Project Files
+
+The following are the files in this project.
+
+- [Nashville Project Queries](NashvilleHousingQueries.sql)
+
+#### Key Tasks
+
+- Performed data cleaning to prepare the data for analysis.
+- Ensured all table columns were correctly represented by their data types.
+- Handled several cases where there were missing data found and removed duplicates.
+
+[Back to the Top](#nashville-housing-data)
+
+---
+
+## Project Outcome
+
+- Cleaned and explored the housing data, aiding in further research.
+
+[Back to the Top](#nashville-housing-data)
 
 ---
 
@@ -48,7 +77,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back to the Top](#projects-in-sql)
+[Back to the Top](#nashville-housing-data)
 
 ---
 
@@ -57,4 +86,4 @@ SOFTWARE.
 - Github - [pras306](https://github.com/pras306)
 - LinkedIn - [Prasanna Sriram](https://www.linkedin.com/in/prasanna-sriram/)
 
-[Back to the Top](#projects-in-sql)
+[Back to the Top](#nashville-housing-data)
